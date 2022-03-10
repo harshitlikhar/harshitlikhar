@@ -4,7 +4,12 @@
 - 🌱 I’m currently learning ML, Statistics.
 - 👯 I’m looking to collaborate on Data Science Projects.
 - 🤔 I’m looking for help with Cloud Computing.
-- 📫 How to reach me: Email: harshitlikhar007@gmail.com.
+
+## Find me around the web 🌎:
+- Everything about me in my <a href="https://harshitlikhar007.wixsite.com/klikhar">website</a> 🖥
+- Sharing updates on <a href="https://www.linkedin.com/in/keshav-likhar-233278181/">LinkedIn</a> 💼  �
+- How to reach me: Email: harshitlikhar007@gmail.com. 📫
+
 
 <!--
 **harshitlikhar/harshitlikhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
