@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Data Science Projects.
 - 🤔 I’m looking for help with Cloud Computing.
 
-## Find me around the web 🌎:
+#### Find me around the web 🌎:
 - Everything about me in my <a href="https://harshitlikhar007.wixsite.com/klikhar">website</a> 🖥
 - Sharing updates on <a href="https://www.linkedin.com/in/keshav-likhar-233278181/">LinkedIn</a> 💼  �
 - How to reach me: harshitlikhar007@gmail.com 📫
