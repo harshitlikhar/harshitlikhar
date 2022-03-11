@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning ML, Statistics.
 - 👯 I’m looking to collaborate on Data Science Projects.
 - 🤔 I’m looking for help with Cloud Computing.
+- 💬 Ask me about Anything.
 
 #### Find me around the web 🌎:
 - 🖥 Everything about me in my <a href="https://harshitlikhar007.wixsite.com/klikhar">website</a> 
