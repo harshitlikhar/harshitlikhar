@@ -7,7 +7,7 @@
 - 💬 Ask me about Anything.
 
 #### Find me around the web 🌎:
-- 🖥 Everything about me in my <a href="https://harshitlikhar007.wixsite.com/klikhar">website</a> 
+- 🖥 Everything about me on my <a href="https://harshitlikhar007.wixsite.com/klikhar">website</a> 
 - 💼 Sharing updates on <a href="https://www.linkedin.com/in/keshav-likhar-233278181/">LinkedIn</a> 
 - 📫 How to reach me: harshitlikhar007@gmail.com 
 
