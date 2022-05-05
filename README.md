@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently a Data Science Graduate Student.
 - 🌱 I’m currently learning ML, Statistics.
-- 👯 I’m looking to collaborate on Data Science Projects.
+- 👯 I’m looking to collaborate on NLP projects.
 - 🤔 I’m looking for help with Cloud Computing.
 - 💬 Ask me about Anything.
 
