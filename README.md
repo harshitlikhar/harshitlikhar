@@ -12,9 +12,6 @@
 - 💼 Sharing updates on <a href="https://www.linkedin.com/in/keshav-likhar-233278181/">LinkedIn</a> 
 - 📫 How to reach me: harshitlikhar007@gmail.com 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitlikhar
-&label=Profile%20views&color=0e75b6&style=flat" alt="harshitlikhar
-" /> </p>
 
 <!-- ![Keshav's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitlikhar&count_private=true&show_icons=true&theme=radical)
  -->
