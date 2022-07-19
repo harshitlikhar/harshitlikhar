@@ -12,8 +12,8 @@
 - 💼 Sharing updates on <a href="https://www.linkedin.com/in/keshav-likhar-233278181/">LinkedIn</a> 
 - 📫 How to reach me: harshitlikhar007@gmail.com 
 
-![Keshav's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitlikhar&count_private=true&show_icons=true&theme=radical)
-
+<!-- ![Keshav's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitlikhar&count_private=true&show_icons=true&theme=radical)
+ -->
 <!--
 **harshitlikhar/harshitlikhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
