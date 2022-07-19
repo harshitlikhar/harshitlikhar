@@ -29,9 +29,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/harshitlikhar/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshitlikhar&count_private=true&show_icons=true&theme=radical&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/harshitlikhar/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshitlikhar&repo=convoychat" />
-</a>
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=harshitlikhar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mikueen&show_icons=true&locale=en&layout=compact&theme=radical" />
+</td>
+</tr>
+</table>
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitlikhar&theme=radical" />
+</p>
+
