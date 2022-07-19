@@ -28,3 +28,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/harshitlikhar/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshitlikhar&count_private=true&show_icons=true&theme=radical&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/harshitlikhar/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshitlikhar&repo=convoychat" />
+</a>
