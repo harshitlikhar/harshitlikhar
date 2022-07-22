@@ -28,6 +28,9 @@
 
 
 
+<p align="center">
+   <img src="https://github.com/harshitlikhar/harshitlikhar/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
 
 
 
