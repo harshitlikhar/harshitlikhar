@@ -1,12 +1,14 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
-
+<!-- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+ -->
 ### Hi there, I am Keshav 👋
 
-- 🔭 I’m currently a Data Science Graduate Student.
+- 🔭 I’m currently a Data Science Graduate Student at Indiana Univeristy Bloomington.
 - 🌱 I’m currently learning ML, Statistics.
 - 👯 I’m looking to collaborate on NLP projects.
 - 🤔 I’m looking for help with Cloud Computing.
 - 💬 Ask me about Anything.
+
+![profile count](https://komarev.com/ghpvc/?username=harshitlikhar&color=blue)&nbsp;
 
 #### Find me around the web 🌎:
 - 🖥 Everything about me on my <a href="https://harshitlikhar007.wixsite.com/klikhar">website</a> 
@@ -16,6 +18,19 @@
 ### Now Playing 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22v1xqjj6144yj4m4nxsyyuj9&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harshitlikhar&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitlikhar&hide_border=true&theme=radical" />
+</p>
+
+
+
+
+
+
+
+
 
 <!-- ![Keshav's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitlikhar&count_private=true&show_icons=true&theme=radical)
  -->
@@ -34,16 +49,35 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- <table>
 <tr>
 <td>
 <img src="https://github-readme-stats.vercel.app/api?username=harshitlikhar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical"/>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitlikhar&show_icons=true&locale=en&layout=compact&theme=radical" />
+<td>
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitlikhar&theme=radical" />
+
 </td>
 </tr>
 </table>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitlikhar&show_icons=true&locale=en&layout=compact&theme=radical" />
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitlikhar&theme=radical" />
-</p>
+</p> -->
 
