@@ -15,7 +15,8 @@
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/22v1xqjj6144yj4m4nxsyyuj9)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22v1xqjj6144yj4m4nxsyyuj9&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 <!-- ![Keshav's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitlikhar&count_private=true&show_icons=true&theme=radical)
  -->
 <!--
