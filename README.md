@@ -13,7 +13,9 @@
 - 💼 Sharing updates on <a href="https://www.linkedin.com/in/keshav-likhar-233278181/">LinkedIn</a> 
 - 📫 How to reach me: harshitlikhar007@gmail.com 
 
+### Now Playing 🎧
 
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/22v1xqjj6144yj4m4nxsyyuj9)
 <!-- ![Keshav's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitlikhar&count_private=true&show_icons=true&theme=radical)
  -->
 <!--
