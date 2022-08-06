@@ -56,5 +56,6 @@ Here are some ideas to get you started:
 </p> -->
 
 Some Recent Exploratory Analysis Projects:
-- <a href="https://harshitlikhar.github.io/EDA-gapminder-R/" target="_blank">EDA-gapminder-R- Life Expectancy and GDP</a>
-- <a href="https://harshitlikhar.github.io/US-Senete-Election-EDA/" target="_blank">US-Senete-Election-EDA</a>
+- <a href="https://harshitlikhar.github.io/EDA-gapminder-R/" target="_blank">EDA-Life Expectancy and GDP</a>
+- <a href="https://harshitlikhar.github.io/US-Senete-Election-EDA/" target="_blank">US Senete Election-EDA</a>
+- <a href="https://github.com/harshitlikhar/EDA-Suicide-Rates-Analysis/blob/main/Final-Project.pdf">EDA-Suicide Rates Analysis</a>
