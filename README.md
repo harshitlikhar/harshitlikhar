@@ -56,6 +56,6 @@ Here are some ideas to get you started:
 </p> -->
 
 Some Recent Projects:
-- https://harshitlikhar.github.io/EDA-gapminder-R/
+- <a href="https://harshitlikhar.github.io/EDA-gapminder-R/" target="_blank">EDA-gapminder-R- Life Expectancy and GDP</a>
 - https://harshitlikhar.github.io/US-Senete-Election-EDA/
 - https://fifaadt.herokuapp.com/
