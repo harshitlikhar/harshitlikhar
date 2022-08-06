@@ -24,7 +24,6 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitlikhar&hide_border=true&theme=radical" />
 </p>
 
-
 <!-- ![Keshav's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitlikhar&count_private=true&show_icons=true&theme=radical)
  -->
 <!--
