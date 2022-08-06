@@ -55,3 +55,7 @@ Here are some ideas to get you started:
 <p align="center">
 </p> -->
 
+Some Recent Projects:
+- https://harshitlikhar.github.io/EDA-gapminder-R/
+- https://harshitlikhar.github.io/US-Senete-Election-EDA/
+- https://fifaadt.herokuapp.com/
