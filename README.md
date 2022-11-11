@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on NLP projects.
 - 🤔 I’m looking for help with Cloud Computing.
 - 💬 Ask me about Anything.
-- <a href="https://www.keshavlikhar.com/_files/ugd/6a9cb4_0b3666327c084fccbd79a31298e5c6ea.pdf" target="_blank">Keshav Likhar Resume</a>
+- <a href="https://www.keshavlikhar.com/_files/ugd/6a9cb4_f6953f1dae6d4c33ab9bf5b338012334.pdf" target="_blank">Keshav Likhar Resume</a>
 
 
 ![profile count](https://komarev.com/ghpvc/?username=harshitlikhar&color=blue)&nbsp;
