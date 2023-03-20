@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently a Data Science Graduate Student at Indiana Univeristy Bloomington.
 - 🌱 I’m currently learning ML, Statistics.
-- 👯 I’m looking to collaborate on NLP projects.
+- 👯 I’m looking to Data Science and Analytics Opportunities.
 - 🤔 I’m looking for help with Cloud Computing.
 - 💬 Ask me about Anything.
 - <a href="https://www.keshavlikhar.com/_files/ugd/6a9cb4_f6953f1dae6d4c33ab9bf5b338012334.pdf" target="_blank">Keshav Likhar Resume</a>
