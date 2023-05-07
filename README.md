@@ -7,7 +7,8 @@
 - 👯 I’m looking to Data Science and Analytics Opportunities.
 - 🤔 I’m looking for help with Cloud Computing.
 - 💬 Ask me about Anything.
-- <a href="https://www.keshavlikhar.com/_files/ugd/6a9cb4_f6953f1dae6d4c33ab9bf5b338012334.pdf" target="_blank">Keshav Likhar Resume</a>
+- <a href="https://www.keshavlikhar.com/_files/ugd/6a9cb4_74235a374c1b42a38f2ca7797f49b74e.pdf" target="_blank">Keshav Likhar Resume</a>
+
 
 
 ![profile count](https://komarev.com/ghpvc/?username=harshitlikhar&color=blue)&nbsp;
